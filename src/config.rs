@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rtdk.shiqiang.vip1"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rtdk.shiqiang.vip"];
 pub const RS_PUB_KEY: &str = "2Z++v5FCUnJVAo9xJmWUBFCBSJKG66xEKsch392GQv0=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
